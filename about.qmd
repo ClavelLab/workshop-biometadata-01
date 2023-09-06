@@ -1,0 +1,38 @@
+---
+title: "About"
+format:
+    html: default
+---
+
+## About the workshop materials
+
+The materials for the workshop is made available under the [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/) via rendered presentations on the current website and the sources of the presentations on the [Gitlab of the workshop](https://git.rwth-aachen.de/clavellab/workshop-biometadata-01).
+
+## About the website
+
+This website, the associated pages and the presentations are generated using [Quarto](https://quarto.org) which is an open-source publishing system to craft reproducible documents.
+
+We generated presentations in the [`revealjs` format](https://revealjs.com) format using custom theme based on [the _solarized_ theme](https://revealjs.com/themes/). Further customisation, inspired by [Emil Hvitfeldt's blog post](https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/), focused on:
+
+* a readable font ([Atkinson Hyperlegible](https://fonts.google.com/specimen/Atkinson+Hyperlegible) from Google), hosted locally to [comply with GDPR](https://cookie-script.com/blog/google-fonts-and-gdpr).
+* sufficient contrast for text and background colors on slides and website, using [Colour Constrast Checker](https://colourcontrast.cc/).
+* a color palette in-line with our consortium and logo color palette designed using the web tool [Coolors](https://coolors.co/).
+
+
+## About us
+
+### Educators
+
+* Maja Magel, M.Sc.
+* Charlie Pauvert, PhD, certified Carpentries instructor
+
+### Organizers
+
+The organizers are affiliated to the [Functional Microbiome Research Group, Institute of Medical Microbiology, University Hospital of RWTH Aachen, Germany](https://www.ukaachen.de/en/clinics-institutes/institute-of-medical-microbiology/research/ag-clavel/)
+
+* Katharina Grünwald
+* Maja Magel
+* Charlie Pauvert
+
+The organizers belongs to the [NFDI4Microbiota](https://nfdi4microbiota.de), a consortium that is part of the German NFDI (National research Data Infrastructure). One of the missions of the NFDI4Microbiota is to support the microbiology research community in making its data more FAIR via adequate tools and training.
+

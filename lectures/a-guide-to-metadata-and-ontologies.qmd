@@ -1,0 +1,17 @@
+---
+title: "A beginner's guide to metadata and ontologies"
+author:
+  - name: Charlie Pauvert
+date: "2023-10-16"
+format:
+  revealjs: default
+categories: [Lecture, Day1]
+---
+
+
+## Learning objectives
+
+- **define** metadata and ontology in the context of biology and microbiology
+- **identify** the importance of metadata in data-centric science.
+- **recognize** that FAIR is a process and every steps counts.
+

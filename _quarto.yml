@@ -1,0 +1,36 @@
+project:
+    title: "workshop-biometadata-01"
+    type: website
+
+website:
+    title: "Workshop Biometadata-01"
+    navbar:
+        background: primary
+        search: true
+        right:
+        - href: index.qmd
+          text: "Home"
+        - about.qmd
+
+    page-footer: 
+        left: 
+            - href: https://biometadata-01.sciencesconf.org
+              text: "Workshop"
+            - href: https://git.rwth-aachen.de/clavellab/workshop-biometadata-01
+              text: "Gitlab"
+
+format:
+    html:
+      theme: custom.scss
+      css: font.css
+    revealjs:
+      theme: custom.scss
+      css: font.css
+      slide-number: true
+      controls: true
+      controls-layout: edges
+      footer: "[Workshop Biometadata-01](../index.html)"
+      logo: "biometadata_logo.png"
+
+
+

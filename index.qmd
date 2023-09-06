@@ -1,0 +1,22 @@
+---
+title: "Materials for the Workshop Biometadata-01"
+format:
+    html: default
+listing:
+  contents:
+    - "lectures/*.qmd"
+  type: default
+  fields: [date, title, author, categories]
+  categories: numbered
+---
+
+You will find below the presentations for the _"Workshop: How to describe biological data? A primer to a FAIR approach for now and the future"_, here shortened to [Workshop Biometadata-01](https://biometadata-01.sciencesconf.org/). Source code for the presentations are available on the [Workshop Gitlab](https://git.rwth-aachen.de/clavellab/workshop-biometadata-01).
+
+Make use of the search bar on the top right of the website to look up terms within all presentations or use the categories to filter the type of presentations.
+
+::: {.callout-tip appearance="simple"}
+## Navigation Tip
+Display the help message by pressing the **`?`** key to help you navigate the interactive presentations!
+:::
+
+## List of workshop presentations
