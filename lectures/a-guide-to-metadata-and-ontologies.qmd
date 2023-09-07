@@ -24,12 +24,13 @@ categories: [Lecture, Day1]
 
 ::: {.incremental}
 
-* Sort the listed arguments (most important on the left). _Example: 3124_
-* Write your ranks in the pad
-* Compare the ranks with your neighbor
-* Discuss and optionally write 1-2 sentences in the pad
-
+* **Arrange** the numbered arguments by importance.
+  * _Argument n°4 is the most important, then n°3, then n°2 and n°1 the least important_
+* **Report** the numbers sequence in the pad (_4321_)
+* **Compare** your ranking with the one of your neighbor
+* **Discuss** and optionally write 1-2 sentences in the pad
 :::
+
 
 ::: {.fragment .fade-up}
 (optional) Write novel arguments in the pad and use the 0
