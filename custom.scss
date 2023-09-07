@@ -57,3 +57,17 @@ html * {
 .reveal .citation a {
   text-decoration: none;
 }
+
+
+/* CSS classes to highlight terms
+   src: https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/#using-css-classes
+*/
+.orange {
+  color: $orange-biome;
+  font-weight: bold;
+}
+
+.green {
+  color: $fern-green;
+  font-weight: bold;
+}
