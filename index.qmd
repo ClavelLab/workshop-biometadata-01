@@ -10,13 +10,15 @@ listing:
   categories: numbered
 ---
 
-You will find below the presentations for the _"Workshop: How to describe biological data? A primer to a FAIR approach for now and the future"_, here shortened to [Workshop Biometadata-01](https://biometadata-01.sciencesconf.org/). Source code for the presentations are available on the [Workshop Gitlab](https://git.rwth-aachen.de/clavellab/workshop-biometadata-01).
+Learners, welcome! You will find below the presentations for the _"Workshop: How to describe biological data? A primer to a FAIR approach for now and the future"_, here shortened to [Workshop Biometadata-01](https://biometadata-01.sciencesconf.org/). Source code for the presentations are available on the [Workshop Gitlab](https://git.rwth-aachen.de/clavellab/workshop-biometadata-01).
 
-Make use of the search bar on the top right of the website to look up terms within all presentations or use the categories to filter the type of presentations.
+Make use of the **search bar** on the top right of the website to look up terms within all presentations or use the categories to filter the type of presentations.
+
+Unsure about the definition of an acronym used in the workshop? Have a look at the [table of acronyms and abbreviations](acronyms.qmd).
 
 ::: {.callout-tip appearance="simple"}
-## Navigation Tip
-Display the help message by pressing the **`?`** key to help you navigate the interactive presentations!
+## Presentation navigation tip
+Display the help message by pressing the **`?`** key to learn how to navigate the interactive presentations!
 :::
 
 ## List of workshop presentations

@@ -1,0 +1,33 @@
+---
+# title: "Acronyms/Abbreviations"
+title: Abbreviations and acronyms used in the workshop
+format:
+    html: default
+---
+
+```{r list_acronyms, echo=FALSE}
+#
+# Add a new acronym here anywhere in the following list by following the syntax
+#
+acronyms <- c(
+# Syntax:
+#
+# "ACRONYM" = "ACRONYM MEANING HERE", <- Don't forget the comma ; )
+#
+  "OBO" = "Open Biomedical Ontologies",
+  "NMDC" = "National Microbiome Data Collaborative",
+  "MIxS" = "Minimal Information about any (x) Sequences"
+)
+```
+
+```{r display_acronyms, echo=FALSE,results='asis'}
+library(magrittr, quietly = TRUE)
+tbl <- acronyms %>% 
+  sort %>% 
+  tibble::enframe(name = "Acronym", value = "Definition") %>% 
+  knitr::kable(format = "pipe")
+cat(tbl, "\n: {.striped .hover .fs-4}", sep = "\n")
+```
+
+
+*Missing an acronym?* This might benefit others, so please [fill an issue on our Gitlab](https://git.rwth-aachen.de/clavellab/workshop-biometadata-01/-/issues/new), we will add it soon!

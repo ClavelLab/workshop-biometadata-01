@@ -10,6 +10,7 @@ website:
         right:
         - href: index.qmd
           text: "Home"
+        - acronyms.qmd
         - about.qmd
 
     page-footer: 
