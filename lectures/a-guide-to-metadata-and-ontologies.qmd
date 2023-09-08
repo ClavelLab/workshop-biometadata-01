@@ -12,6 +12,62 @@ categories: [Lecture, Day1]
 ## Learning objectives
 
 - **define** metadata and ontology in the context of biology and microbiology
-- **identify** the importance of metadata in data-centric science.
-- **recognize** that FAIR is a process and every steps counts.
+- **identify** the importance of reliable metadata in data-centric biology
+- **recognize** that FAIR is a process and every steps counts
+
+
+# Your turn!
+
+## Exercise: sort arguments
+
+**Task:**
+
+::: {.incremental}
+
+* **Arrange** the numbered arguments by importance.
+  * _Argument n°4 is the most important, then n°3, then n°2 and n°1 the least important_
+* **Report** the numbers sequence in the pad (_4321_)
+* **Compare** your ranking with the one of your neighbor
+* **Discuss** and optionally write 1-2 sentences in the pad
+:::
+
+
+::: {.fragment .fade-up}
+(optional) Write novel arguments in the pad and use the 0
+:::
+
+
+## Sort arguments (1/2)
+
+::: {.callout-note icon="false"}
+## Question
+Why is a precise description of the data or reliable metadata necessary in the case of [research data that _you_ produce]{.orange}?
+:::
+
+
+**Arguments**:
+
+::: {.fragment .fade-up}
+1. in order to store for long term archive
+2. to give biological context for interpretation
+3. to be able to reanalyze in the future
+4. to be scrutinized against possible misconduct
+:::
+
+
+## Sort arguments (2/2)
+
+
+::: {.callout-note icon="false"}
+## Question
+Why is a precise description of the data or reliable metadata necessary in the case of ~~[research data that _you_ produce]{.orange}~~ [research data produced by another research group]{.green}?
+:::
+
+
+**Arguments**:
+
+1. in order to store for long term archive
+2. to give biological context for interpretation
+3. to be able to reanalyze in the future
+4. to be scrutinized against possible misconduct
 
