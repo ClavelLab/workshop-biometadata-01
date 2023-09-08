@@ -30,4 +30,4 @@ cat(tbl, "\n: {.striped .hover .fs-4}", sep = "\n")
 ```
 
 
-*Missing an acronym?* This might benefit others, so please [fill an issue on our Gitlab](https://git.rwth-aachen.de/clavellab/workshop-biometadata-01/-/issues/new), we will add it soon!
+*Missing an acronym?* This might benefit others, so please [fill an issue on our Gitlab](https://git.rwth-aachen.de/clavellab/workshop-biometadata-01/-/issues/new?issuable_template=new_acronym), we will add it soon!
