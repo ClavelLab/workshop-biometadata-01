@@ -16,6 +16,37 @@ categories: [Lecture, Day1]
 - **recognize** that FAIR is a process and every steps counts
 
 
+# Introduction
+
+
+## Model organisms and decontextualisation
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+```{r}
+#| label: model-organisms
+#| fig-alt: |
+#|   Model Organisms as seen by Vincent Van Gogh illustrated by SketchingScience.
+#| fig-cap: |
+#|   Source: [SketchingScience](https://twitter.com/sketchscience/status/1672913062603440132?s=20)
+knitr::include_graphics("images/model-organisms_by_sketchingscience.jpg")
+```
+:::
+
+::: {.column width="50%"}
+Standardization focuses research efforts (and funds)
+
+**But does not prohibit different organisms**
+
+Quick start research on other organisms from findings in model organisms thanks to [decontextualisation]{.orange}
+:::
+
+::::
+
+
 # Your turn!
 
 ## Exercise: sort arguments
