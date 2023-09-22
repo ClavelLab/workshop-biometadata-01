@@ -1,0 +1,25 @@
+---
+title: "Ontologies for biological data"
+author:
+  - name: Charlie Pauvert
+date: "2023-10-16"
+format:
+  revealjs: default
+categories: [Lecture, Day1]
+---
+
+## Before we start
+
+Raise your hand if you have heard of:
+
+::: {.incremental}
+- the Gene Ontology
+- the Environmental Ontology
+- the Ontology Ontology
+- the OBO Foundry
+:::
+
+
+## Learning objectives
+
+- **name** at least two widely used ontologies in the life sciences
