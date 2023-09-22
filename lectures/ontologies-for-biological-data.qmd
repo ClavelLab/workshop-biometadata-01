@@ -23,3 +23,14 @@ Raise your hand if you have heard of:
 ## Learning objectives
 
 - **name** at least two widely used ontologies in the life sciences
+
+## The OBO Foundry
+
+- is a community of Open Biology and Biomedical Ontologies (OBO)
+- that shares principles and practices, such as:
+
+
+They are used by many and maintained ~~by few~~.
+
+
+An OBO ontology has a [quality]{.orange}!

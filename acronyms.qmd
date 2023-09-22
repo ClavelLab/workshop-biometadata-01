@@ -14,7 +14,7 @@ acronyms <- c(
 #
 # "ACRONYM" = "ACRONYM MEANING HERE", <- Don't forget the comma ; )
 #
-  "OBO" = "Open Biomedical Ontologies",
+  "OBO" = "Open Biology and Biomedical Ontology",
   "NMDC" = "National Microbiome Data Collaborative",
   "MIxS" = "Minimal Information about any (x) Sequences",
   "FAIR" = "Findable, Accessible, Interoperable and Reusable",
