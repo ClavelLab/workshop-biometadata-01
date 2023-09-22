@@ -47,6 +47,38 @@ Quick start research on other organisms from findings in model organisms thanks 
 ::::
 
 
+## Modern biology
+
+
+:::: {.columns}
+
+::: {.column width="55%"}
+Biology is highly contextual (few rules, many exceptions)
+
+
+**Decontextualisation**
+
+> Seeing the forest for the trees
+
+**Recontextualisation**
+
+> Verifying up the forest coordinates
+
+:::
+
+
+::: {.column width="40%"}
+
+```{r}
+#| label: data-centric
+#| fig-alt: |
+#|   Book cover Data centric biology by Leonelli S.
+knitr::include_graphics("images/data-centric-biology.jpg")
+```
+:::
+
+::::
+
 # Your turn!
 
 ## Exercise: sort arguments
