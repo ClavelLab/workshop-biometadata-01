@@ -14,6 +14,8 @@ categories: [Lecture, Day1]
 -   **name** at least two widely used ontologies in the life sciences
 -   **use** tools to look-up and annotate terms
 
+<!--# Should we demonstrate how to use the hierarchy feature of OLS? -->
+
 ## Ontologies Tools
 
 Many online tools to **find** and **use** ontologies!
@@ -144,6 +146,5 @@ Such tools are called [annotators]{.orange} and are provided by the two ontology
 -   BioPortal has [Annotator](https://bioportal.bioontology.org/annotator)
 
 -   OLS has [ZOOMA](https://www.ebi.ac.uk/spot/zooma/)
-
 
 ## References
