@@ -32,6 +32,7 @@ format:
       controls-layout: edges
       footer: "[Workshop Biometadata-01](../index.html)"
       logo: "biometadata_logo.png"
+      bibliography: "biometadata-01.bib"
 
 
 

@@ -60,6 +60,21 @@ From the general to the specific:
 -   are responsive to changes by the scientific community
 
 
+## Selecting ontology
+
+A usable and reliable ontology
+
+::: incremental
+-   [x] has sound terms definitions that you agree with
+-   [x] is actively developed and updated to reflect the scientific practices
+-   [x] has a community space to exchange with the community (tickets, issues)
+-   [x] has an adequate license and appropriate funding (for maintenance)
+:::
+
+::: aside
+Modified from @rocca-serra_selecting_2023 and @malone_ten_2016.
+:::
+
 
 # Your turn!
 
@@ -79,4 +94,4 @@ Bonus task on ontology interconnection:
 -   **Go** to the ontology OBO page (e.g., [envo]{.blue}) and list the *dependencies* of the ontology
 
 
-An OBO ontology has a [quality]{.orange}!
+## References
