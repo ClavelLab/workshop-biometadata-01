@@ -94,4 +94,18 @@ Bonus task on ontology interconnection:
 -   **Go** to the ontology OBO page (e.g., [envo]{.blue}) and list the *dependencies* of the ontology
 
 
+## Search terms in ontologies
+
+You can find terms in ontologies using the search bar of:
+
+-   [BioPortal](https://bioportal.bioontology.org/)
+
+-   [Ontology Lookup Service v4](https://www.ebi.ac.uk/ols4)
+
+::: r-stack
+![](images/OntologyLookupService_search.png){.fragment fig-alt="OLS search screenshot" fig-align="center"}
+
+![](images/NCBOBioPortal_search.png){.fragment fig-alt="NCBO BioPortal search screenshot" fig-align="center"}
+:::
+
 ## References
