@@ -1,0 +1,65 @@
+---
+title: "I'm not a label: What to do when nothing fits"
+author:
+  - name: Charlie Pauvert
+date: "2023-10-17"
+format:
+  revealjs: default
+categories: [Lecture, Day2]
+---
+
+
+## An edge case
+
+### What to do?
+
+::: .incremental
+1.  Don't give up on ontologies just now
+2.  Get a different perspective on the case by discussing your case with colleagues
+3.  Contribute back to the community with your edge case
+:::
+
+
+## Contributing
+
+Your edge case can help others!
+
+-   Do you want to amend/extend the definition of a term?
+-   No term fits your case?
+
+Either way, you need to contact the [maintainers]{.orange} of the ontology
+
+
+## Contributing new terms
+
+-   Find the community space of the ontology (e.g., GitHub, Slack)
+-   Look-up if someone has the same edge case already
+-   Read the Contributing guidelines
+-   Identify any request process
+
+::: aside
+Adapted from @goldmann_requesting_2023
+:::
+
+
+## Examples
+
+Showcase newly accepted terms from ENVO: https://sites.google.com/site/environmentontology/participate
+
+
+## Limits of standardisation
+
+-   Sometimes ontologies are not needed [@malone_ten_2016, see Rule 10]
+
+## A silver lining
+
+Still, worth trying.
+
+Showcase of uses of ontologies
+
+-   Knowledge graphs
+-   Reasoning with ontologies
+-   Large Languages Models
+-   Extending publications
+
+## References
