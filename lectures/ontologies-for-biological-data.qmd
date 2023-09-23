@@ -34,7 +34,6 @@ From the general to the specific:
 
 -   [The OBO Foundry](http://obofoundry.org)
 
-
 ## Ontology Lookup Service
 
 > OLS is the official ontology service of the EMBL-EBI
@@ -59,7 +58,6 @@ From the general to the specific:
 
 -   are responsive to changes by the scientific community
 
-
 ## Selecting ontology
 
 A usable and reliable ontology
@@ -75,7 +73,6 @@ A usable and reliable ontology
 Modified from @rocca-serra_selecting_2023 and @malone_ten_2016.
 :::
 
-
 # Your turn!
 
 ## Exercise: Ontology look-up
@@ -86,12 +83,11 @@ Modified from @rocca-serra_selecting_2023 and @malone_ten_2016.
     -   by typing keywords into the search bar
     -   or using the *Ontology Domains* menu
 -   **Report** them on the pad and compare with your neighbor
+-   **Assess** if the ontology matches the quality criteria
 
 . . .
 
-Bonus task on ontology interconnection:
-
--   **Go** to the ontology OBO page (e.g., [envo]{.blue}) and list the *dependencies* of the ontology
+(optional) List the *dependencies* of the ontology and the one of your neighbor
 
 ## Example ENVO (1/2) {visibility="hidden"}
 
