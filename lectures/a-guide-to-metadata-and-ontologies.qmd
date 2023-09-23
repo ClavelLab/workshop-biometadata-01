@@ -113,3 +113,25 @@ Why is a precise description of the data or reliable metadata necessary in the c
 2.  to give biological context for interpretation
 3.  to be able to reanalyze in the future
 4.  to be scrutinized against possible misconduct
+
+# Take-home message
+
+## FAIR data is a process
+
+::: columns
+::: {.column width="50%"}
+> "Even if you don't know how to go all the way to zero-to-60 open science, [zero-to-20 is also really good]{.orange}"
+>
+> Ellen Bledsoe in @perkel_how_2023
+:::
+
+::: {.column .fragment width="50%"}
+![](images/cat-4419763_1280.jpg){fig-alt="kitten learning to hunt" fig-align="center"}
+
+::: aside
+Image by [Aleš Háva](https://pixabay.com/users/alešháva-5318775/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4419763) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4419763)
+:::
+:::
+:::
+
+## References
