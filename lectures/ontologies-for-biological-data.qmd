@@ -8,29 +8,75 @@ format:
 categories: [Lecture, Day1]
 ---
 
-## Before we start
-
-Raise your hand if you have heard of:
-
-::: {.incremental}
-- the Gene Ontology
-- the Environmental Ontology
-- the Ontology Ontology
-- the OBO Foundry
-:::
-
-
 ## Learning objectives
 
-- **name** at least two widely used ontologies in the life sciences
+-   **find** an ontology and **assess** its validity
+-   **name** at least two widely used ontologies in the life sciences
+-   **use** tools to look-up and annotate terms
+
+## Ontologies Tools
+
+Many online tools to **find** and **use** ontologies!
+
+1.  How to list and find ontologies?
+2.  How to search ontology terms?
+3.  How to annotate list of terms?
+
+## Find ontologies
+
+From the general to the specific:
+
+-   [~~OntoBee~~](https://ontobee.org) ~~is more targeted to developers~~
+
+-   [NCBO BioPortal](https://bioportal.bioontology.org/) has mostly biomedical ontologies
+
+-   [Ontology Lookup Service v4](https://www.ebi.ac.uk/ols4)
+
+-   [The OBO Foundry](http://obofoundry.org)
+
+
+## Ontology Lookup Service
+
+> OLS is the official ontology service of the EMBL-EBI
+>
+> <https://www.ebi.ac.uk/ols4>
+
+-   EMBL: European Molecular Biology Laboratory
+
+-   EMBL-EBI: EMBL's European Bioinformatics Institute
 
 ## The OBO Foundry
 
-- is a community of Open Biology and Biomedical Ontologies (OBO)
-- that shares principles and practices, such as:
+> is a **community** of Open Biology and Biomedical Ontologies (OBO) that share principles and practices
+>
+> <https://obofoundry.org>
+
+### OBO ontologies
+
+-   are used by many and maintained ~~by few~~.
+
+-   have non-overlapping terms in relation with others ontologies
+
+-   are responsive to changes by the scientific community
 
 
-They are used by many and maintained ~~by few~~.
+
+# Your turn!
+
+## Exercise: Ontology look-up
+
+**Task** using <http://obofoundry.org>
+
+-   **Look-up** 1-2 ontologies that match your field or interests:
+    -   by typing keywords into the search bar
+    -   or using the *Ontology Domains* menu
+-   **Report** them on the pad and compare with your neighbor
+
+. . .
+
+Bonus task on ontology interconnection:
+
+-   **Go** to the ontology OBO page (e.g., [envo]{.blue}) and list the *dependencies* of the ontology
 
 
 An OBO ontology has a [quality]{.orange}!
