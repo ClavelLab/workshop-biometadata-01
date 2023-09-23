@@ -93,6 +93,37 @@ Bonus task on ontology interconnection:
 
 -   **Go** to the ontology OBO page (e.g., [envo]{.blue}) and list the *dependencies* of the ontology
 
+## Example ENVO (1/2) {visibility="hidden"}
+
+```{mermaid}
+flowchart TB
+    ENVO -->|depends on| ChEBI 
+    ENVO --> FoodOn 
+    ENVO --> GO
+    ENVO --> NCBITaxon 
+    ENVO --> PCO 
+    ENVO --> PO
+    ENVO --> RO
+    ENVO --> UBERON
+```
+
+## Example ENVO (2/2) {visibility="hidden"}
+
+```{mermaid}
+flowchart TB
+    ENVO -->|depends on| ChEBI 
+    ENVO --> FoodOn 
+    ENVO --> GO
+    ENVO --> NCBITaxon 
+    ENVO --> PCO 
+    ENVO --> PO
+    ENVO --> RO
+    ENVO --> UBERON
+    GO -->|depends on| NCBITaxon
+    GO --> RO
+    GO --> UBERON
+    GO --> CL
+```
 
 ## Search terms in ontologies
 
