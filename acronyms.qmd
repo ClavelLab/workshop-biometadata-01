@@ -14,11 +14,16 @@ acronyms <- c(
 #
 # "ACRONYM" = "ACRONYM MEANING HERE", <- Don't forget the comma ; )
 #
+  "ENVO" = "Environmental Ontology",
+  "EMBL" = "European Molecular Biology Laboratory",
+  "EMBL-EBI" = "EMBL's European Bioinformatics Institute",
+  "NCBO" = "National (USA) Center for Biomedical Ontology",
+  "OLS" = "Ontology Lookup Service",
   "OBO" = "Open Biology and Biomedical Ontology",
-  "NMDC" = "National Microbiome Data Collaborative",
+  "NMDC" = "National (USA) Microbiome Data Collaborative",
   "MIxS" = "Minimal Information about any (x) Sequences",
   "FAIR" = "Findable, Accessible, Interoperable and Reusable",
-"NFDI" = "_Nationale Forschungsdateninfrastruktur_ (DE) National Research Data Infrastructure (EN)"
+  "NFDI" = "National (DE) Research Data Infrastructure"
 )
 ```
 
