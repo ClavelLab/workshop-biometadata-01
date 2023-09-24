@@ -156,6 +156,32 @@ Biology is highly contextual (few rules, many exceptions), meaning [context]{.or
 Adapted from @leonelli_data-centric_2016
 :::
 
+## Decontextualisation
+
+::: columns
+::: {.column width="40%"}
+::: r-stack
+![](images/rain-forest-mist.jpg){.fragment fig-alt="Borneo rainforest by Maria Stenzel" fig-align="center"}
+
+![](images/fig1_envo_2013.jpg){.fragment fig-alt="Figure 1 ENVO paper" fig-align="center"}
+:::
+:::
+
+::: {.column width="60%"}
+::: {.fragment .fade-in-then-semi-out}
+> The labeling of data through **bio-ontologies** ensures that they are at least [temporarily decoupled]{.orange} from information about the local features of their production. @leonelli_data-centric_2016 [p. 30]
+:::
+
+::: {.fragment .fade-in}
+> Make data adaptable to new research settings.
+:::
+:::
+:::
+
+::: aside
+Source: [Maria Stenzel](https://education.nationalgeographic.org/resource/rain-forest) and @buttigieg_environment_2013
+:::
+
 ## Ontology definition
 
 ## Metadata definition
