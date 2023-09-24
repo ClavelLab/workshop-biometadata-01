@@ -65,8 +65,8 @@ Key to success: [curated data description]{.green}
 ::: {.fragment .fade-up}
 ### Outline
 
-1.  **Why** do we pay attention to data handling?
-2.  **How** to do it?
+1.  **Why** curate data?
+2.  **How** to curate data?
 :::
 
 # Why curate data?
@@ -138,11 +138,11 @@ Why is a precise description of the data or reliable metadata necessary in the c
 
 # How to curate data?
 
-## Modern biology
+## Biological context
 
-::: columns
-::: {.column width="55%"}
-Biology is highly contextual (few rules, many exceptions)
+Biology is highly contextual (few rules, many exceptions), meaning [context]{.orange} is the key point to address to make data travel across research investigations.
+
+. . .
 
 **Decontextualisation**
 
@@ -150,18 +150,15 @@ Biology is highly contextual (few rules, many exceptions)
 
 **Recontextualisation**
 
-> Verifying up the forest coordinates
+> Verifying up the forest geographic coordinates
+
+::: aside
+Adapted from @leonelli_data-centric_2016
 :::
 
-::: {.column width="40%"}
-```{r}
-#| label: data-centric
-#| fig-alt: |
-#|   Book cover Data centric biology by Leonelli S.
-knitr::include_graphics("images/data-centric-biology.jpg")
-```
-:::
-:::
+## Ontology definition
+
+## Metadata definition
 
 # Take-home message
 
