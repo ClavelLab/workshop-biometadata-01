@@ -206,7 +206,81 @@ Source: [Maria Stenzel](https://education.nationalgeographic.org/resource/rain-f
 Adapted from @osumi-sutherland_introduction_2023 and @leonelli_data-centric_2016 [ pp. 125, 133]
 :::
 
+## Exercise: an ontology?
+
+**Task**: Choose one of the definitions below and, if necessary add any *missing features*.
+
+::: {.fragment .fade-up}
+An [ontology]{.orange} is:
+
+-   A dictionary with persistent identifiers
+
+-   A network of scientific definitions
+
+-   A controlled vocabulary with synonyms
+:::
+
+::: notes
+Formative assessment of ontology understanding
+
+-   A dictionary with persistent identifiers (missing hierarchy of terms)
+
+-   A network of scientific definitions (missing curation and missing identifier)
+
+-   A controlled vocabulary with synonyms (missing definitions and missing hierarchy)
+
+Cross references as well
+:::
+
+## How to curate data?
+
+-   Decontextualisation [relies on ontologies]{.orange}
+
+-   Recontextualisation?
+
+::: {.fragment .fade-up}
+> It enables users to evaluate the potential meaning of data by assessing their provenance through the [consultation of metadata]{.orange}. This is necessary to identify the value of data as evidence, thus helping to build an **interpretation of their biological significance** in a new research setting.
+>
+> @leonelli_data-centric_2016 [p. 30]
+:::
+
 ## Metadata definition
+
+::: {.fragment .fade-in-then-semi-out}
+Metadata are data about the data, or a "love note to the future" [@scott_metadata_2011].
+:::
+
+::: {.fragment .fade-in}
+Metadata are "[reliability labels]{.orange}" [@leonelli_data-centric_2016, p. 28]
+:::
+
+::: {.fragment .incremental}
+**Types of metadata:**
+
+-   Descriptive: what is the data? e.g., title, description
+
+-   Structural: how the data is organized? e.g., file, collection
+
+-   Administrative: what is the provenance? e.g., versions, license
+
+-   Quality: How good is the data? e.g., quality rank
+:::
+
+::: notes
+The categories are not fixed in marble.
+:::
+
+## Exercise: metadata
+
+**Task**:
+
+-   **List** 1-4 metadata that you have already encountered
+
+-   **Write** them in the pad under one of the four types
+
+::: aside
+If someone already wrote the one you thought about, add "+1" at the end!
+:::
 
 # Take-home message
 
