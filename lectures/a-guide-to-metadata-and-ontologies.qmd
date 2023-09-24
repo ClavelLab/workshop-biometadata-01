@@ -282,7 +282,21 @@ The categories are not fixed in marble.
 If someone already wrote the one you thought about, add "+1" at the end!
 :::
 
+# What about FAIR data?
+
+## FAIR principles
+
+![Source: <https://scibite.com>](images/FAIR_scibite_com.png){fig-alt="The FAIR principles explained by scibite.com" fig-align="center"}
+
+::: fragment
+15 principles were outlined by @wilkinson_fair_2016
+:::
+
 # Take-home message
+
+## FAIR data takes time
+
+![](images/meme-time-fair.jpg){fig-alt="meme about how fair data takes time" fig-align="center"}
 
 ## FAIR data is a process
 
@@ -302,4 +316,4 @@ Image by [Aleš Háva](https://pixabay.com/users/alešháva-5318775/?utm_source=
 :::
 :::
 
-## References
+## References {.scrollable}
