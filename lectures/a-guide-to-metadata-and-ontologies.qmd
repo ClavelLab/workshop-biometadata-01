@@ -12,59 +12,75 @@ categories: [Lecture, Day1]
 
 -   **define** metadata and ontology in the context of biology and microbiology
 -   **identify** the importance of reliable metadata in data-centric biology
--   **recognize** that FAIR is a process and every steps counts
+-   **recognize** that FAIR is a process and that every steps count
 
-# Introduction
+# Modern biology
 
-## Model organisms and decontextualisation
-
-::: columns
-::: {.column width="50%"}
-```{r}
-#| label: model-organisms
-#| fig-alt: |
-#|   Model Organisms as seen by Vincent Van Gogh illustrated by SketchingScience.
-#| fig-cap: |
-#|   Source: [SketchingScience](https://twitter.com/sketchscience/status/1672913062603440132?s=20)
-knitr::include_graphics("images/model-organisms_by_sketchingscience.jpg")
-```
-:::
-
-::: {.column width="50%"}
-Standardization focuses research efforts (and funds)
-
-**But does not prohibit different organisms**
-
-Quick start research on other organisms from findings in model organisms thanks to [decontextualisation]{.orange}
-:::
-:::
-
-## Modern biology
+## Modern biology = big data?
 
 ::: columns
-::: {.column width="55%"}
-Biology is highly contextual (few rules, many exceptions)
-
-**Decontextualisation**
-
-> Seeing the forest for the trees
-
-**Recontextualisation**
-
-> Verifying up the forest coordinates
-:::
-
 ::: {.column width="40%"}
-```{r}
-#| label: data-centric
-#| fig-alt: |
-#|   Book cover Data centric biology by Leonelli S.
-knitr::include_graphics("images/data-centric-biology.jpg")
-```
+::: r-stack
+![](images/meme-big-data-centric.jpg){.fragment fig-alt="big data vs data-centric" fig-align="center"}
+
+![](images/data-centric-biology.jpg){.fragment fig-alt="Book cover Data centric biology by Leonelli S." fig-align="center"}
 :::
 :::
 
-# Your turn!
+::: {.column width="60%"}
+::: {.fragment .fade-up}
+> [...] the real source of innovation in current biology is the [attention paid to data handling]{.orange} and dissemination practices [...] rather than the emergence of big data and associated methods per se. @leonelli_data-centric_2016 [p. 1]
+:::
+:::
+:::
+
+## Nothing is ever new
+
+::: columns
+::: {.column width="40%"}
+Is the attention to data handling and standardization [really new]{.orange} in modern biology?
+:::
+
+::: {.column width="60%"}
+![](images/model-organisms_by_sketchingscience.jpg){.fragment fig-alt="Model Organisms as seen by Vincent Van Gogh illustrated by SketchingScience" fig-align="center"}
+:::
+:::
+
+::: aside
+Image from [SketchingScience](https://twitter.com/sketchscience/status/1672913062603440132?s=20)
+:::
+
+## Model organisms
+
+::: incremental
+-   Standardization focuses research efforts (and funds)
+-   But **does not prohibit studying different organisms**
+-   [Quick start research]{.orange} on other organisms *reusing* findings in model organisms
+:::
+
+::: fragment
+Key to success: [curated data description]{.green}
+:::
+
+::: {.fragment .fade-up}
+### Outline
+
+1.  **Why** do we pay attention to data handling?
+2.  **How** to do it?
+:::
+
+# Why curate data?
+
+## Data curation arguments
+
+We curate data ...
+
+::: incremental
+1.  in order to store for long term archive
+2.  to give biological context for interpretation
+3.  to be able to reanalyze in the future
+4.  to be scrutinized against possible misconduct
+:::
 
 ## Exercise: sort arguments
 
@@ -80,6 +96,12 @@ knitr::include_graphics("images/data-centric-biology.jpg")
 
 ::: {.fragment .fade-up}
 (optional) Write novel arguments in the pad and use the 0
+:::
+
+::: notes
+Additional argument:
+
+-   public funding so need to be transparent and accountable
 :::
 
 ## Sort arguments (1/2)
@@ -113,6 +135,33 @@ Why is a precise description of the data or reliable metadata necessary in the c
 2.  to give biological context for interpretation
 3.  to be able to reanalyze in the future
 4.  to be scrutinized against possible misconduct
+
+# How to curate data?
+
+## Modern biology
+
+::: columns
+::: {.column width="55%"}
+Biology is highly contextual (few rules, many exceptions)
+
+**Decontextualisation**
+
+> Seeing the forest for the trees
+
+**Recontextualisation**
+
+> Verifying up the forest coordinates
+:::
+
+::: {.column width="40%"}
+```{r}
+#| label: data-centric
+#| fig-alt: |
+#|   Book cover Data centric biology by Leonelli S.
+knitr::include_graphics("images/data-centric-biology.jpg")
+```
+:::
+:::
 
 # Take-home message
 
