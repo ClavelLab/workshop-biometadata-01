@@ -182,7 +182,29 @@ Adapted from @leonelli_data-centric_2016
 Source: [Maria Stenzel](https://education.nationalgeographic.org/resource/rain-forest) and @buttigieg_environment_2013
 :::
 
-## Ontology definition
+## Ontology definition {.smaller}
+
+::: incremental
+-   List of terms, usually taken from the scientific literature
+
+-   Ontology terms:
+
+    -   have curated **textual definitions** and synonyms
+
+    -   are arranged in a **hierarchy** from general to specific
+
+    -   have defined **relationships** with others terms (e.g., `is_a`, `has_condition`)
+
+    -   have persistent **identifiers**
+
+    -   can be **cross-referenced** with other resources (ontology or not)
+
+-   Ontology should reflect existing knowledge
+:::
+
+::: aside
+Adapted from @osumi-sutherland_introduction_2023 and @leonelli_data-centric_2016 [ pp. 125, 133]
+:::
 
 ## Metadata definition
 
