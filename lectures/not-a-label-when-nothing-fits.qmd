@@ -1,5 +1,6 @@
 ---
-title: "I'm not a label: What to do when nothing fits"
+title: "I'm not a label"
+subtitle: "What to do when nothing fits"
 author:
   - name: Charlie Pauvert
 date: "2023-10-17"
