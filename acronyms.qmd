@@ -30,8 +30,8 @@ acronyms <- c(
 ```{r display_acronyms, echo=FALSE,results='asis'}
 library(magrittr, quietly = TRUE)
 tbl <- acronyms %>% 
-  sort %>% 
   tibble::enframe(name = "Acronym", value = "Definition") %>% 
+  dplyr::arrange(Acronym) %>%
   knitr::kable(format = "pipe")
 cat(tbl, "\n: {.striped .hover .fs-4}", sep = "\n")
 ```
