@@ -14,6 +14,11 @@ acronyms <- c(
 #
 # "ACRONYM" = "ACRONYM MEANING HERE", <- Don't forget the comma ; )
 #
+  "DDBJ" = "DNA Databank of Japan",
+  "NCBI" = "National (USA) Center for Biotechnology Information",
+  "INSDC" = "International Nucleotide Sequence Database Collaboration",
+  "ENA" = "European Nucleotide Archive",
+  "GSC" = "Genomics Standards Consortium",
   "ENVO" = "Environmental Ontology",
   "EMBL" = "European Molecular Biology Laboratory",
   "EMBL-EBI" = "EMBL's European Bioinformatics Institute",

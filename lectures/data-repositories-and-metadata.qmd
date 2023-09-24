@@ -1,0 +1,178 @@
+---
+title: "Data Repositories & Metadata"
+subtitle: "Fields, Standards & Minimal Requirements"
+author:
+  - name: Charlie Pauvert
+date: "2023-10-16"
+format:
+  revealjs: default
+categories: [Lecture, Day1]
+---
+
+## Learning objectives
+
+-   **recall** at least two mandatory metadata fields
+-   **name** at least one metadata standards used in the life sciences
+-   **identify** relevant data repository
+
+# Metadata fields
+
+## Metadata fields
+
+::: incremental
+-   A column [header]{.orange} expects one or more [cell values]{.green}
+-   A [metadata field]{.orange} expects one or more [values]{.green}
+:::
+
+::: fragment
+| Metadata field | Type of constraint |
+|----------------|--------------------|
+| description    | free-text          |
+| geolocation    | coordinates        |
+| biome          | ontology term      |
+:::
+
+# Metadata standards
+
+## Metadata standards
+
+-   Fields are organized into coherent [metadata standard]{.orange} for a given type of data
+
+    -   e.g., genomes, soil samples
+
+-   They are built and maintained by a combination of stakeholders
+
+```         
+-   e.g., users community, data repositories
+```
+
+## Standards expectations
+
+::: incremental
+Metadata standards (should) indicate for each field:
+
+-   the **description** of the metadata field
+
+-   the level of **requirements** (mandatory, recommended, optional)
+
+-   the ***cardinality***, that is the range of expected values for the metadata field
+
+-   a persistent **identifier** for the field
+:::
+
+## Exercise: Metadata standards
+
+**Task**:
+
+-   **Go** to <https://www.ebi.ac.uk/ena/browser/checklists>
+
+-   **Look-up** a standard that match your model system or type of sample
+
+-   **Identify** the [mandatory]{.orange} metadata fields
+
+-   **Compare** with your neighbor
+
+## Minimal requirements
+
+-   The set of mandatory fields is sometimes referred to as the [minimal requirements]{.orange}.
+
+-   Filling out these requirements **and** all the optional metadata fields would be ideal (if only possible) but is time-consuming
+
+## Exercise: Requirements
+
+**Task:**
+
+-   Given only the mandatory fields, do you think you could **recontextualise** the data properly?
+
+```{=html}
+<!-- -->
+```
+-   **List** your arguments in the pad.
+
+## Environmental metadata {.smaller}
+
+MIxS lists three *mandatory* environmental metadata fields that expect [ontology]{.orange} terms.
+
+::: r-stack
+::: {.fragment .fade-in-then-out}
+| Metadata field                    | Abbreviation      |
+|-----------------------------------|-------------------|
+| broad-scale environmental context | `env_broad_scale` |
+| local environmental context       | `env_local_scale` |
+| environmental medium              | `env_medium`      |
+:::
+
+::: fragment
+| Metadata field                    | Abbreviation      | Recommended subclass                                                                                                                                            |
+|-------------------------------|------------------|-----------------------|
+| broad-scale environmental context | `env_broad_scale` | [biome \[ENVO:00000428\]](https://www.ebi.ac.uk/ols4/ontologies/envo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FENVO_00000428)                  |
+| local environmental context       | `env_local_scale` | deeper hierarchy than broad-scale (UBERON terms accepted)                                                                                                       |
+| environmental medium              | `env_medium`      | [environmental material \[ENVO:00010483\]](https://www.ebi.ac.uk/ols4/ontologies/envo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FENVO_00010483) |
+:::
+:::
+
+## Exercise: Env\* metadata {.smaller}
+
+::: columns
+::: {.column width="50%"}
+![](images/meme-environmental-context.jpg){.fragment fig-alt="broad scale vs local env context" fig-align="center" width="340"}
+:::
+
+::: {.column .fragment width="50%"}
+**Task alone or by pairs**:
+
+-   **Browse** ENVO or UBERON (see previous table)
+
+-   **List** ontology terms fitting your data
+
+-   **Fill out** the following template on the pad:
+
+    -   `env_broad_scale`
+
+    -   `env_local_scale`
+
+    -   `env_medium`
+:::
+:::
+
+::: aside
+Get more help on [ENVO's wiki page about microbial samples](https://github.com/EnvironmentOntology/envo/wiki/Using-ENVO-with-MIxS#notes-on-annotating-microscale-or-microbial-samples)!
+:::
+
+# Data repositories
+
+## Data repositories
+
+-   Curated and well-described that stays on your hard drive is of limited interest to the scientific community.
+
+-   National and international efforts exist to create and maintain data repositories for the life sciences.
+
+-   For nucleotide sequence data, the INSDC integrate and mirrors data repositories from three regions:
+
+    -   USA with the NCBI
+
+    -   Europe with the EMBL-EBI
+
+    -   Japan with the DDBJ
+
+## Exercise: Data repositories
+
+::: columns
+**Task**
+
+-   **Go** to <https://www.ebi.ac.uk/submission>
+
+::: {.column width="50%"}
+-   **Find** out which repository could suit your data using the wizard
+
+-   **Report** the repository in the pad
+:::
+
+::: {.column width="50%"}
+![](images/wizard-2021410_640.jpg){fig-alt="A wizard LEGO piece" fig-align="center"}
+:::
+:::
+
+::: aside
+Image by [Andrew Martin](https://pixabay.com/users/aitoff-388338/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2021410) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2021410)
+:::
