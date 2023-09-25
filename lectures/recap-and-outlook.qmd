@@ -1,0 +1,72 @@
+---
+title: "Recap Day 1 & Outlook"
+author:
+  - name: Maja Magel
+  - name: Charlie Pauvert
+date: "2023-10-17"
+format:
+  revealjs: default
+categories: [Recap, Day2]
+---
+
+# Thank you for joining today!
+
+## Key points metadata
+
+::: incremental
+-   Researchers agree on metadata standards and minimal requirements to be able to [share and reuse data]{.orange}
+-   These metadata can be considered as "[reliability labels]{.blue}" [@leonelli_data-centric_2016, p. 28]
+:::
+
+## Key points ontologies
+
+::: columns
+::: {.column width="40%"}
+::: {.fragment fragment-index="1"}
+- Ontologies are a sophisticated "[common tongue]{.orange}"
+:::
+
+::: {.fragment fragment-index="2"}
+- Tools available to find and browse ontologies (OLS, BioPortal)
+:::
+:::
+
+::: {.column width="60%"}
+::: {.fragment fragment-index="1"}
+![](images/gimli-common-tongue.png){fig-alt="Gimli ask for the common tongue" fig-align="center" width="400"}
+
+> So much for the legendary courtesy of the Elves!
+> Speak words we can also understand!
+>
+> Gimli to Haldir
+
+:::
+:::
+
+:::
+
+## Key points environmental metadata
+
+::: incremental
+-   You successfully *presented* your dataset
+-   You improve its description using [ontologies]{.blue}
+-   Especially using [environmental metadata]{.orange} fields expected in widely-used data repositories
+:::
+
+# Something is still unclear?
+
+## Something is still unclear?
+
+::: r-fit-text
+[Ask away please!]{.orange}
+:::
+
+::: {.fragment .fade-up}
+::: callout-tip
+## Tips!
+
+-   Feel free to use the search bar to look up **terms** used in the slides
+
+-   Browse the **acronyms** and abbreviations table
+:::
+:::
