@@ -40,11 +40,8 @@ categories: [Lecture, Day1]
 
     -   e.g., genomes, soil samples
 
--   They are built and maintained by a combination of stakeholders
-
-```         
--   e.g., users community, data repositories
-```
+-   They are built and maintained by a combination of stakeholders       
+    -    e.g., users community, data repositories
 
 ## Standards expectations
 
