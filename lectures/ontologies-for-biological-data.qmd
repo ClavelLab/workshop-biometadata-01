@@ -24,6 +24,8 @@ Many online tools to **find** and **use** ontologies!
 2.  How to search ontology terms?
 3.  How to annotate list of terms?
 
+# Find ontologies
+
 ## Find ontologies
 
 From the general to the specific:
@@ -75,8 +77,6 @@ A usable and reliable ontology
 Modified from @rocca-serra_selecting_2023 and @malone_ten_2016.
 :::
 
-# Your turn!
-
 ## Exercise: Ontology look-up
 
 **Task** using <http://obofoundry.org>
@@ -123,7 +123,7 @@ flowchart TB
     GO --> CL
 ```
 
-# Back to the lecture
+# Search ontology terms
 
 ## Search terms in ontologies
 
@@ -139,6 +139,8 @@ You can find terms in ontologies using the search bar of:
 ![](images/NCBOBioPortal_search.png){.fragment fig-alt="NCBO BioPortal search screenshot" fig-align="center"}
 :::
 
+# Annotate many terms
+
 ## Annotate list of terms
 
 Such tools are called [annotators]{.orange} and are provided by the two ontology browsers we used:
@@ -146,5 +148,9 @@ Such tools are called [annotators]{.orange} and are provided by the two ontology
 -   BioPortal has [Annotator](https://bioportal.bioontology.org/annotator)
 
 -   OLS has [ZOOMA](https://www.ebi.ac.uk/spot/zooma/)
+
+::: notes
+This section could be skipped if not enough time
+:::
 
 ## References
