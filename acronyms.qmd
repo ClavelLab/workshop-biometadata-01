@@ -14,6 +14,8 @@ acronyms <- c(
 #
 # "ACRONYM" = "ACRONYM MEANING HERE", <- Don't forget the comma ; )
 #
+  "PO" = "Plant Ontology",
+  "UBERON" = "Uber-anatomy ontology",
   "DDBJ" = "DNA Databank of Japan",
   "NCBI" = "National (USA) Center for Biotechnology Information",
   "INSDC" = "International Nucleotide Sequence Database Collaboration",

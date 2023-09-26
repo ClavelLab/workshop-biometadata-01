@@ -139,6 +139,64 @@ You can find terms in ontologies using the search bar of:
 ![](images/NCBOBioPortal_search.png){.fragment fig-alt="NCBO BioPortal search screenshot" fig-align="center"}
 :::
 
+## Exercise: Ontology browser {.smaller}
+
+::: columns
+::: {.column width="50%"}
+**Task**: using [Ontology Lookup Service v4](https://www.ebi.ac.uk/ols4)
+
+::: incremental
+-   **Look-up** the following keywords in that order via the search bar*:* [pond]{.orange}, [ear]{.orange} and [leaf]{.orange}
+
+-   **Select** a term for each using these ontologies:
+
+    -   Uber-anatomy ontology (UBERON)
+
+    -   Plant Ontology (PO)
+
+    -   Environmental Ontology (ENVO)
+
+-   **Report** the term and the term identifier in the pad
+:::
+:::
+
+::: {.column width="50%"}
+![](images/Auguste_Renoir_-_La_Grenouillere.jpg){.fragment fragment-index="1" fig-alt="painting of a pond la grenouillere by auguste renoir" fig-align="center"}
+:::
+:::
+
+::: aside
+*La Grenouillère* by Auguste Renoir (1869) [Wikimedia](https://commons.wikimedia.org/wiki/File:Auguste_Renoir_-_La_Grenouill%C3%A8re.jpg)
+:::
+
+::: notes
+-   [pond \[ENVO:00000033\]](https://www.ebi.ac.uk/ols4/ontologies/envo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FENVO_00000033) (the correct term is not far down the list)
+
+-   [ear \[UBERON:0001690\]](https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001690) (many "early" that can be filtered with the exact match option)
+
+-   [leaf \[PO:0025034\]](https://www.ebi.ac.uk/ols4/ontologies/po/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FPO_0025034) (tricky because it is an imported term)
+:::
+
+## Exercise: visualize features
+
+::: incremental
+-   **Navigate** to 1-2 of the following terms:
+
+    -   [pond \[ENVO:00000033\]](https://www.ebi.ac.uk/ols4/ontologies/envo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FENVO_00000033)
+
+    -   [ear \[UBERON:0001690\]](https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001690)
+
+    -   [leaf \[PO:0025034\]](https://www.ebi.ac.uk/ols4/ontologies/po/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FPO_0025034)
+
+-   **Inspect** the term page
+
+-   **Associate** parts of the OLS interface with the [expected features of an ontology](https://clavellab.pages.rwth-aachen.de/workshop-biometadata-01/lectures/a-guide-to-metadata-and-ontologies.html#/ontology-definition)
+:::
+
+::: notes
+Restitution can be made with everyone closer to the screen displaying one of the terms and pointing to each of the ontology features.
+:::
+
 # Annotate many terms
 
 ## Annotate list of terms
@@ -153,4 +211,4 @@ Such tools are called [annotators]{.orange} and are provided by the two ontology
 This section could be skipped if not enough time
 :::
 
-## References
+# References
