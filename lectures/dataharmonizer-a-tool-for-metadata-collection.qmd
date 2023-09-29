@@ -1,0 +1,42 @@
+---
+title: "DataHarmonizer"
+subtitle: "A tool helping metadata collection and validation"
+author:
+  - name: Charlie Pauvert
+date: "2023-10-17"
+format:
+  revealjs: default
+categories: [Lecture, Day2]
+---
+
+## Metadata collection
+
+During COVID-19 pandemic, data and metadata collection was crucial.
+
+::: {.fragments .fade-up}
+@gill_dataharmonizer_2023 developped a spreadsheet-like tool to [help]{.orange}!
+:::
+
+## DataHarmonizer
+
+::: incremental
+-   Load metadata standards
+-   Easy navigation based on:
+    -   Sections of metadata fields
+    -   Metadata requirements
+-   Display expected values
+-   Validate the metadata values
+:::
+
+## NMDC submission portal
+
+> Leverage DataHarmonizer to lower barriers to collect, study and biosample data
+
+::: {.fragment .fade-up}
+Receive guidance on how to meet standards
+:::
+
+# Submission portal Demo
+
+# References
+
