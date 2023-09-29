@@ -9,34 +9,42 @@ format:
 categories: [Lecture, Day2]
 ---
 
-## Metadata collection
-
-During COVID-19 pandemic, data and metadata collection was crucial.
-
-::: {.fragments .fade-up}
-@gill_dataharmonizer_2023 developped a spreadsheet-like tool to [help]{.orange}!
-:::
-
 ## DataHarmonizer
 
 ::: incremental
+-   Data and metadata collection cane be crucial (e.g., COVID-19)
+
+-   DataHarmonizer: a **super** spreadsheet to help [@gill_dataharmonizer_2023]
+
+:::
+
+### Main features
+
+::: incremental
 -   Load metadata standards
+
+-   Fill the template
+
+-   Validate your metadata against the template
+:::
+
+::: notes
 -   Easy navigation based on:
     -   Sections of metadata fields
     -   Metadata requirements
 -   Display expected values
--   Validate the metadata values
 :::
 
 ## NMDC submission portal
 
+-   National (USA) Microbiome Data Collaborative
+
 > Leverage DataHarmonizer to lower barriers to collect, study and biosample data
 
-::: {.fragment .fade-up}
-Receive guidance on how to meet standards
-:::
+-   Not going to use it for data submission but data description!
+
+-   Receive guidance on how to meet standards
 
 # Submission portal Demo
 
 # References
-
