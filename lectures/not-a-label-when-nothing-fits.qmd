@@ -9,17 +9,23 @@ format:
 categories: [Lecture, Day2]
 ---
 
+# The paradox of standards
+
+## The paradox of standards
+
+> A classification [or any standard] fit to support data journeys needs to be [dynamic]{.orange} enough to support the ever-changing understanding of nature acquired by the biologists who use it and at the same time [stable]{.orange} enough to enable data of various sorts and significance to be quickly surveyed and retrieved. @leonelli_data-centric_2016 [p. 116]
+
+# An edge case
 
 ## An edge case
 
 ### What to do?
 
-::: .incremental
+::: incremental
 1.  Don't give up on ontologies just now
-2.  Get a different perspective on the case by discussing your case with colleagues
+2.  Get a different perspective by discussing your case with colleagues
 3.  Contribute back to the community with your edge case
 :::
-
 
 ## Contributing
 
@@ -30,37 +36,78 @@ Your edge case can help others!
 
 Either way, you need to contact the [maintainers]{.orange} of the ontology
 
-
 ## Contributing new terms
 
+::: incremental
 -   Find the community space of the ontology (e.g., GitHub, Slack)
 -   Look-up if someone has the same edge case already
 -   Read the Contributing guidelines
 -   Identify any request process
+:::
 
 ::: aside
 Adapted from @goldmann_requesting_2023
 :::
 
+## Exercise: NTR
 
-## Examples
+NTR: New Term Request
 
-Showcase newly accepted terms from ENVO: https://sites.google.com/site/environmentontology/participate
+**Task**
 
+::: incremental
+-   **Look-up** [recent examples of ENVO contributions](https://sites.google.com/site/environmentontology/participate)
 
-## Limits of standardisation
+-   **Choose** one and skim through the discussion
+
+-   **List** the information required for a type of contribution
+
+-   (optional) **Find** the template or recommendations for contribution
+
+-   (optional) What about for UBERON?
+:::
+
+# Limitations
+
+## Limitations
+
+::: incremental
+-   Ontologies need to be **maintained** (funding)
+
+-   Ontologies need to be **updated** to reflect current knowledge. This needs [engaged biologists]{.orange}!
+
+-   Limited accessibility because scientists needs adequate infrastructure and to speak English
 
 -   Sometimes ontologies are not needed [@malone_ten_2016, see Rule 10]
+:::
+
+# A silver lining
 
 ## A silver lining
 
-Still, worth trying.
+::: fragment
+Still, worth trying out ontologies, especially if they are used by metadata standards in your field!
+:::
 
-Showcase of uses of ontologies
+::: fragment
+Going further with ontologies
 
+::: incremental
 -   Knowledge graphs
 -   Reasoning with ontologies
 -   Large Languages Models
 -   Extending publications
+:::
+:::
+
+::: notes
+Possible showcase
+
+-   EuropePMC annotations
+
+-   MADAME tool automatic map of samples
+
+-   Earth Microbiome Project
+:::
 
 ## References
